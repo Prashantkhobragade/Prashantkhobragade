@@ -20,8 +20,6 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
 
 
 ### Data Scientist  
@@ -30,17 +28,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</div>  
 
 <br/>  
 
@@ -64,12 +52,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Prashantkhobragade
-&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Prashantkhobragade&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -77,11 +60,7 @@
 <img src="https://komarev.com/ghpvc/?username=Prashantkhobragade
 &&style=flat-square" align="center" />
 </div>  
-  
 
-<br/>  
-
-<div align="center"></div>
 <br />
 
 ----
