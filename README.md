@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Prashant, A passionate Data Scientist 💻 | Machine Learning| Data Analysis | SQL |</div>  
+### <div align="center">I'm Prashant, A passionate Data Scientist 💻 | Machine Learning| Deep Learning | NLP |</div>  
   
 
-- 🌱 I’m currently learning Deep Learning and AWS Sagemaker.
+- 🌱 I’m currently learning Computer Vision and.
   
   
 
