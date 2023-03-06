@@ -6,7 +6,7 @@
 ### <div align="center">I'm Prashant, A passionate Data Scientist 💻 | Machine Learning| Deep Learning | NLP |</div>  
   
 
-- 🌱 I’m currently learning Computer Vision and.
+- 🌱 I’m currently learning Computer Vision.
   
   
 
